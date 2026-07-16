@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/checked.png</file>
+        <file>icons/unchecked.png</file>
+        <file>icons/icon.ico</file>
+        <file>icons/settings.png</file>
+        <file>Toolery.qss</file>
+        <file>Obit.qss</file>
+        <file>Wstartpage.qss</file>
+        <file>Perstfic.qss</file>
+        <file>Diffnes.qss</file>
+        <file>SyNet.qss</file>
+        <file>Gravira.qss</file>
+        <file>Chatbee.qss</file>
+        <file>down-arrow.png</file>
+        <file>boxcheck.png</file>
+    </qresource>
+</RCC>
