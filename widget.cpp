@@ -1357,16 +1357,3 @@ Widget::~Widget()
     delete ui;
 
 }
-// move all buttons in the weather page to settings menu **
-// maybe make the window resizable from the bottom so the table area can be increased.
-// I can make profils to change scripts but what is the point, it already works
-// Login credentials should be stored in an ecripted data base through the variant param method by right clicking the log in button
-// make the damn THI gtaph
-// I created this app when I was fueled by hate, I mean I still am but I am not crippled by it anymore.
-// It's all gone I cant really feel a thing, I destroyed myself , I fucked up, please someone save me I cant save myself, I am so deep
-// I just cant get out.
-// as sad as that sounds this feelings is shaping me right now, do I like it ? no, but I cant really do much about it
-// maybe I like it like that, maybe the damage is irreversible.
-// what to do ???
-// is it over ??
-// no clue !
