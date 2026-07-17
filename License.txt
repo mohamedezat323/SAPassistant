@@ -1,4 +1,4 @@
-Copyright (c) DevSec Studio. All rights reserved.
+Copyright (c) mohamedezat323. All rights reserved.
 
 MIT License
 
