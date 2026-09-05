@@ -3,7 +3,7 @@ This app is an automation tool that bridge the gap between SAPgui scripts and us
 While primarily designed for food industry quality control, this project offers versatile functionality for sales management and warehousing applications.
 Only works with SAP ERP system, using WScripts.
 
-My passion for programing started when I started worked in the oil field "mud logging", my dream was to create a general software that can be used in mud logging.
+My passion for programming started when I started worked in the oil field "mud logging", my dream was to create a general software that can be used in mud logging.
 
 <img width="611" height="271" alt="{E59C54C7-44D3-4323-9399-076F0B82D536}" src="https://github.com/user-attachments/assets/6c0fae41-4938-42d0-b08c-6f32aea842b9" />
 
