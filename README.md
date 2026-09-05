@@ -5,6 +5,8 @@ Only works with SAP ERP system.
 
 My passion for programing started when I started worked in the oil field "mud logging", my dream was to create a general software that can be used in mud logging.
 
-<img width="612" height="336" alt="{E09789B2-661A-4D9B-BCA3-F06C5CA4EFB3}" src="https://github.com/user-attachments/assets/ab0eeac6-4817-41bf-9525-fe95dbe4eb92" />
+<img width="611" height="271" alt="{E59C54C7-44D3-4323-9399-076F0B82D536}" src="https://github.com/user-attachments/assets/6c0fae41-4938-42d0-b08c-6f32aea842b9" />
 
-<img width="612" height="335" alt="{0DDE804F-AE03-4E16-B193-81366C8312EF}" src="https://github.com/user-attachments/assets/0e27fff6-ee75-4b59-8b34-be3bc12a75d0" />
+<img width="609" height="270" alt="{046CA159-3D26-49B6-B053-D54460B86CA6}" src="https://github.com/user-attachments/assets/d45a0707-01d7-4518-9ae2-bc1577e393b6" />
+
+
